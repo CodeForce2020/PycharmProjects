@@ -15,5 +15,7 @@ Sample:
 
 ```
 name = input('What is your name? ')
+color = input ('What is your favorite Color? ')
+print('name ' likes the color + color)
 
 ```
