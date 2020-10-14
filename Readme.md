@@ -8,7 +8,7 @@ Ask two questions:
 1. Person's Name and 
 2. Favorie Color
 
-Then Print
+Then Print: "Mosh likes Blue"
 
 
 Sample: 
